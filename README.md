@@ -1,10 +1,8 @@
-# Cornell AI Hackathon 2025
+# AI Hack Template
 
-This repository contains a development environment that is provided as an easy starting point for Hackathon participants to use to get off and running.
+This repository contains a development environment that is provided as an easy starting point to use to get off and running.
 
-Use of this dev environment is not required but is encouraged to allow Hackathon staff to be able to easily help you when troubleshooting issues. It also offers great standard rapid prototyping tools that will accelerate your development while not having to think about fine details like how to build a UI or API backend. You can also be assured that your teammates will all have the same environment and spend less time troubleshooting, and more time hacking!
-
-That said, if you truly are experts, don't let us hold you back! You are free to use whatever technologies and development environments that you want to use in this hackathon!
+It offers great standard rapid prototyping tools that will accelerate your development while not having to think about fine details like how to build a UI or API backend.
 
 # Getting Started
 
